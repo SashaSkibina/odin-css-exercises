@@ -1,0 +1,15 @@
+.bg-color-font {
+  background-color: rgb(238, 160, 160);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#num2 {
+  color: rgb(42, 22, 198);
+  font-size: 36px;
+}
+.fontsize {
+  font-size: 24px;
+}
+#num4 {
+  background-color: rgb(159, 216, 141);
+  font-weight: bold;
+}
